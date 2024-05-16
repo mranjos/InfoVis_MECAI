@@ -1,1 +1,1 @@
-# InfoVis_MECAI
+# InfoVis MECAI 2024
